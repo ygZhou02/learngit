@@ -1,0 +1,5 @@
+Git can only track the changes of text files.
+2 bit files like Microsoft Word, or jpgs and mp4s, cannot be tracked by git.
+But they can be version controlled by git.
+
+
